@@ -1,7 +1,7 @@
 import javax.sound.midi.MidiChannel;
 
 import java.util.*;
-public class Pattern {
+public class PatternS {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
     System.out.println("enter number of row");
